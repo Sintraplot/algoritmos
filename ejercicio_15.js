@@ -27,5 +27,5 @@ function findPrimerNumbersOf(number){
   
 
  
-findPrimerNumbersOf(9);
+findPrimerNumbersOf(7);
 
